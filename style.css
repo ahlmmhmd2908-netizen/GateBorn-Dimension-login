@@ -9,18 +9,18 @@ body{
 }
 main{
   background-color: white;
-  width: 350px; 
-  padding: 30px; 
+  width: 450px; 
+  padding: 50px; 
   border-radius: 30px; 
   text-align: center;
   margin: 100px auto;
 }
 input{
   margin: 10px; 
-  padding: 10px; 
+  padding: 15px; 
   border-radius: 10px;
   width: 90%;
-  height: 35px; 
+  height: 45px; 
 }
 input:focus{
   outline: none; 
@@ -28,11 +28,12 @@ input:focus{
   box-shadow: 0 0 15px #4b3f72;
 }
 button{
-  padding: 10px 30px; 
+  padding: 100px 30px; 
   border-radius: 15px;
   background-color: #4b3f72;
   color: white;
   border: none;
+  heogh: 40;
 }
 #welcome{
   display: none; 
